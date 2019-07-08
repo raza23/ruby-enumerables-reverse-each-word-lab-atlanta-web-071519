@@ -1,2 +1,3 @@
 def reverse_each_word(string)
-  return string
+  string1 =string.split("")
+  return string1
